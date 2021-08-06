@@ -218,3 +218,8 @@ We are going to use Anaconda, a free and open source distribution of Python, to 
 ## FAQs
 1. Please use Jupyter NOTEBOOK, NOT Jupyter LAB for running the practicals locally
 2. Please follow the instructions and naming convention when submitting your coding exercises, as they are auto-graded
+3. "apps not allowed" issue with Colab:
+   - Option 1: use you personal Google account
+   - Option 2: opt into Google Additional services. If you choose to do so, enable the "Google Additional Services" section at [identity.monash.edu](https://identity.monash.edu/). Please note that the opt in to Google Additional services is an agreement between the user and Google directly, not Monash University
+   - Option 3: delete the cookies and cache of your browser after enabling Google Additional Services and try launch Colab again
+   - Option 3: upload the file whilst on the [google collaborate site](https://research.google.com/colaboratory/)
