@@ -222,4 +222,4 @@ We are going to use Anaconda, a free and open source distribution of Python, to 
    - Option 1: use you personal Google account
    - Option 2: opt into Google Additional services. If you choose to do so, enable the "Google Additional Services" section at [identity.monash.edu](https://identity.monash.edu/). Please note that the opt in to Google Additional services is an agreement between the user and Google directly, not Monash University
    - Option 3: delete the cookies and cache of your browser after enabling Google Additional Services and try launch Colab again
-   - Option 3: upload the file whilst on the [google collaborate site](https://research.google.com/colaboratory/)
+   - Option 4: upload the file whilst on the [google collaborate site](https://research.google.com/colaboratory/)
