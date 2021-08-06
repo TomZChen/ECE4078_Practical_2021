@@ -214,3 +214,7 @@ We are going to use Anaconda, a free and open source distribution of Python, to 
 
 7. Repeat step 1-5 for any changes you want to save and upload.
 
+
+## FAQs
+1. Please use Jupyter NOTEBOOK, NOT Jupyter LAB for running the practicals locally
+2. Please follow the instructions and naming convention when submitting your coding exercises, as they are auto-graded
