@@ -63,8 +63,9 @@ You should perform the following steps at least once a week prior to the Practic
 
 # Running Jupyter Notebook on Binder
 
-1. Go to https://mybinder.org/v2/gh/tianleimin/ECE4078_Practical_2021/main and run the notebook from the corresponding folder.
-
+1. Go to https://mybinder.org/v2/gh/tianleimin/ECE4078_Practical_2021/main and run the notebook from the corresponding folder. 
+     ![binder](Instruction_Images/binder1.png)
+2. Once the server is launched, you should see the jupyter notebook interface as usual. To pull for the latest changes, please close and re-open the binder link again.
 
 # Running Jupyter Notebook on CoLab (note: CoLab support is droopped after week 2; please use follow the Binder instruction or install locally)
 
